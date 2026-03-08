@@ -22,7 +22,7 @@ intents:
   - another_quote
   - feedback_positive
   - feedback_negative
-  - ask_author
+  - ask_author 
   - search_by_topic
   - ask_help
 
